@@ -1,9 +1,8 @@
 # Project1
 Progetto parte del corso Passion in Action Social Media in Emergency Rapid Mapping.
 
-
+Indicazioni:
 <ul>
-  Indicazioni:
   <li>import annotated table (Sandy Dataset)</li>
   <li> compute Vincent distance for two tweets, given their ids </li>
   <li> plot a table showing the total number of: not annotated, n.a., [], annotated with one location, annotated with two locations or more visualize them on a map </li>
